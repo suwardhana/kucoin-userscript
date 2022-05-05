@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Kucoin Total Trade
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/suwardhana/kucoin-userscript
 // @version      0.1
-// @description  give a better Idea how much we trade in USD!
+// @description  give a better idea how much a trade in USD
 // @author       Suwardhana
 // @match        https://www.kucoin.com/trade/*
 // @icon         https://assets.staticimg.com/cms/media/7AV75b9jzr9S8H3eNuOuoqj8PwdUjaDQGKGczGqTS.png
